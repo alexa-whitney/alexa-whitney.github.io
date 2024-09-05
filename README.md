@@ -22,4 +22,4 @@ class Skills extends SoftwareDeveloper {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa-whitney&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa-whitney&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa-whitney&show_icons=true&hide_border=true&theme=dracula)
